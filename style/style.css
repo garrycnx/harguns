@@ -12,7 +12,7 @@ body
 }
 .bdyimg
 {
-   background-image: url(/Image/frnt.jpg);
+   background-image: url("/Image/frnt.jpg");
   background-repeat: no-repeat;
   
   
